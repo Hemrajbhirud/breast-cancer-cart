@@ -153,18 +153,4 @@ The depth-four CART benchmark achieved **93.86% accuracy**, demonstrating the us
 
 The project highlights the importance of balancing classification performance, model complexity, and interpretability.
 
-**Disclaimer:** This application is an educational machine learning demonstration and must not be used for medical diagnosis or treatment decisions.
-
-## Contributors
-
-- Hemraj Bhirud
-- Kunal Dayma
-- Jayesh Dhupar
-
-**Department of Computing Technologies**
-
-SRM Institute of Science and Technology
-
-**Course:** 21CSC305P – Machine Learning
-
-**Academic Year:** 2026–2027
+**Disclaimer:** This application is an educational machine learning demonstration and must not be used for medical diagnosis or treatment decisi
